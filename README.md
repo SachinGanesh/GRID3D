@@ -1,6 +1,8 @@
 # GRID3D
 GRID - 3D Model editor built using OpenGL and Simple DirectMedia Layer (SDL)
 
+*VTU - BE - 6th Semester Mini Project* - 2015
+
 The aim of this project is to develop a 3-D graphics package which supports basic operations which include creating objects like cube, sphere, mesh, curves etc. and also transformation operations like translation, rotation, scale.
 
 The objective is to build a 3D graphics editor having all required operations that a normal graphics editor should offer. The coding is implemented for a single canvas graphics editor. In this editor importance is given to a simple user interface and implementation of all basic graphic routines and basic graphic editing options. 
